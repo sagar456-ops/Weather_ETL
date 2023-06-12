@@ -17,7 +17,7 @@ API_key = os.getenv("API")
 
 # COMMAND ----------
 
-# MAGIC %run ../My_etl_module/logger 
+# MAGIC %run "/sagar.rimal@acme.edu.np/Weather_ETL/logger"
 
 # COMMAND ----------
 
